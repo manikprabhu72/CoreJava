@@ -1,4 +1,4 @@
-#Charlotte Burgers
+# Charlotte Burgers
 This is a console Application for the Admin of the Charlotte Burgers Application to Add/Update/Remove/View below:
 1. Menu
 2. Reservations
